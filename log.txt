@@ -1,0 +1,1 @@
+{"front":"Pizza","back":"Originates in italy, cheese, dough, and tomato sauce are common ingredients","type":"basicCard"},{"text":"Jon Snow is the King of the North","cloze":"Jon Snow","clozeDeleted":"... is the King of the North","type":"ClozeCard"},

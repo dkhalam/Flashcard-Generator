@@ -1,0 +1,19 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Serves to generate flashcards for users",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dkhalam/Flashcard-Generator.git"
+  },
+  "author": "David Khalameyzer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkhalam/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/dkhalam/Flashcard-Generator#readme"
+}
